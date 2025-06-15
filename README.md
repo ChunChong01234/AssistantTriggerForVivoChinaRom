@@ -1,5 +1,7 @@
 # Trigger Assistant / Gemini by Launching App
 
+[中文版本 🇨🇳](./README.zh.md)
+
 ## Overview
 
 This app provides an easy way to trigger the Gemini assistant overlay using the Vivo sidebar, offering a smoother alternative to default gestures (especially for one-handed use).
