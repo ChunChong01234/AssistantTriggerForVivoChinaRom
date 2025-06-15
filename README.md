@@ -12,6 +12,12 @@ Recently, I bought a Vivo X200 Pro (China ROM) and wanted a more convenient way 
 
 I discovered MiCTS, and with Vivo’s sidebar feature, it worked incredibly well—even better than the default gesture of holding the navigation bar. Inspired by this, I created a simple app to trigger the Gemini overlay through the sidebar for a more elegant, one-handed experience.
 
+## Download
+
+- **[Download APK directly](https://github.com/ChunChong01234/AssistantTriggerForVivoChinaRom/raw/main/TriggerAssistant.apk
+)**  
+  _Click the link above to download and install the app on your device._
+
 ## How to Set Up
 
 1. **Ensure Gemini Works on Your Device**
