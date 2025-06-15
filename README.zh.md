@@ -12,6 +12,12 @@
 
 偶然间我发现了 MiCTS，配合 vivo 的侧边栏功能，体验极佳，甚至比默认的长按导航栏手势更好用。受到启发，我开发了这个简单的应用，可以通过侧边栏优雅地触发 Gemini，单手操作更加便捷。
 
+## 下载
+
+**[直接下载 APK](https://github.com/ChunChong01234/AssistantTriggerForVivoChinaRom/raw/main/TriggerAssistant.apk)**
+
+_点击上方链接直接下载并安装应用。_
+
 ## 设置方法
 
 1. **确保 Gemini 可以在你的设备上正常使用**
